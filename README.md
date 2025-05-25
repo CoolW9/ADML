@@ -83,10 +83,6 @@ ADML/
 │   └── ADML-Attacker_维吾尔文指令.json                     # 维吾尔文攻击指令
 │   └── ADML-Attacker_蒙古文指令.json                     # 蒙古文攻击指令
 │
-├── ADML-Classifier_多民族语言指令风险分类模型/
-│   ├── ADML-Classifier_单语训练模型参数/                     # 单语训练模型权重
-│   └── ADML-Classifier_多语训练模型参数/                     # 多语训练模型权重
-│
 ├── ADML-Defender_多民族语言安全响应规则/
 │   ├── ADML-Defender_中文安全响应规则.json                     # 中文安全响应规则库
 │   └── ADML-Defender_藏文安全响应规则.json                     # 藏文安全响应规则库
