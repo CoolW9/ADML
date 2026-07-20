@@ -52,13 +52,13 @@ ADML是一个专为中国多民族语言场景构建的大模型安全评估与�
 ```bash
 ADML/
 │
-├── ADML-Attacker_多民族语言平行攻击指令数据集/
+├── ADML-Attacker/
 │   ├── ADML-Attacker_中文指令.json                     # 中文攻击指令
 │   └── ADML-Attacker_藏文指令.json                     # 藏文攻击指令
 │   └── ADML-Attacker_维吾尔文指令.json                     # 维吾尔文攻击指令
 │   └── ADML-Attacker_蒙古文指令.json                     # 蒙古文攻击指令
 │
-├── ADML-Defender_多民族语言安全响应规则/
+├── ADML-Defender/
 │   ├── ADML-Defender_中文安全响应规则.json                     # 中文安全响应规则库
 │   └── ADML-Defender_藏文安全响应规则.json                     # 藏文安全响应规则库
 │   └── ADML-Defender_维吾尔文安全响应规则.json                  # 维吾尔文安全响应规则库
